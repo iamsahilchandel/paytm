@@ -9,7 +9,7 @@
     "lint": "eslint . --max-warnings 0"
   },
   "dependencies": {
-    "@repo/db": "*",
+    "@repo/prisma": "*",
     "@repo/store": "*",
     "@repo/ui": "*",
     "next": "^14.1.1",
